@@ -15,13 +15,13 @@
 	<version>1.0</version>
 
 	<name>MavenEnterpriseApplication</name>
-	<url>http://mithuntechnologies.com</url>
+	<url>http://google.com</url>
 	
 	<description>Maven Enterprise Project</description>
 
 	<organization>
-		<name>Mithun Technologies</name>
-		<url>http://mithuntechnologies.com/</url>
+		<name>Vivek Reddy</name>
+		<url>http://google.com/</url>
 	</organization>
 
 	<properties>
@@ -95,13 +95,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://localhost:8085/mithuntechnologies/repository/flipkart-releases/</url>
+	      <name>Vivek Reddy Releases Nexus Repository</name>
+	      <url>http://localhost:8085/vivekreddy/repository/maven-releases/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://localhost:8085/mithuntechnologies/repository/flipkart-snapshot/</url>
+	      <url>http://localhost:8085/vivekreddy/repository/maven-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
