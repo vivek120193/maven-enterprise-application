@@ -7,7 +7,7 @@
 <head>
 <spring:url value="/resources/images/godofwar.jpg" var="godofwar" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies- Home Page</title>
+<title>Vivek Reddy- Home Page</title>
 <link href="${godofwar}" rel="icon">
 </head>
 </head>

@@ -100,7 +100,7 @@
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <name>Vivek Reddy Snapshot Nexus Repository </name>
 	      <url>http://localhost:8085/vivekreddy/repository/maven-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
