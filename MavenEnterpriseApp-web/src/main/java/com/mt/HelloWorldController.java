@@ -6,10 +6,10 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 @Controller
-@RequestMapping("/")
+@GetMapping("/")
 public class HelloWorldController {
 
-		@RequestMapping(method = RequestMethod.GET)
+		@GetMapping(method = RequestMethod.GET)
 		public String hello(ModelMap model) {
 
 			model.addAttribute("name", " Hello World!");
