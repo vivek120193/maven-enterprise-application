@@ -7,10 +7,10 @@
   <version>1.0</version>
   <name> Maven Enterprise Application</name>
   <url>http://maven.apache.org</url>
-  <modules>
+  <!-- <modules>
     <module>MavenEnterpriseApp-ear</module>
     <module>MavenEnterpriseApp-web</module>
-  </modules>
+  </modules> -->
   
   <properties>
 	<!-- versions -->
