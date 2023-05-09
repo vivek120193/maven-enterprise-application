@@ -27,12 +27,12 @@
 	<repository>
 		<id>nexus</id>
 		<name>Sample Maven Repo</name>
-		<url>http://34.234.64.241:8084/vivek/repository/sample-release/</url>
+		<url>http://54.160.223.2:8084/vivek/repository/sample-release/</url>
 	</repository>
 	<snapshotRepository>
 		<id>nexus</id>
 		<name>Snapshot Maven Repo</name>
-		<url>http://34.234.64.241:8084/vivek/repository/sample-snapshot/</url>
+		<url>http://54.160.223.2:8084/vivek/repository/sample-snapshot/</url>
 	</snapshotRepository>
   </distributionManagement>
 		
